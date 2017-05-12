@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="MAIL_FROM" prompt="MAIL_FROM?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="MAIL_HOST" prompt="MAIL_HOST?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="MAIL_PORT" prompt="MAIL_PORT?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="NOTIFICATION_EMAILS" prompt="NOTIFICATION_EMAILS?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
